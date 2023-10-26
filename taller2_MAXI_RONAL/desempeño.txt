@@ -1,1 +1,3 @@
 el sistema de control de versiones es una herramienta de ayuda a los desarrolladores a rastrear y gestionar los cambios en el codigo de software a lo largo del tiempo 
+
+las utilidades principales del iscv son: gestion de cambios, colaboracion, revertir cambios, como audoria de cambios y getion de versiones 
